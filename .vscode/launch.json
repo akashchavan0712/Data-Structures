@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch StackDS",
+            "request": "launch",
+            "mainClass": "Stack.StackDS",
+            "projectName": "Java_ef0add14"
+        },
+        {
+            "type": "java",
+            "name": "Launch LinkedStack",
+            "request": "launch",
+            "mainClass": "Stack.LinkedStack",
+            "projectName": "Java_ef0add14"
+        },
+        {
+            "type": "java",
+            "name": "Launch Linkedlist2",
+            "request": "launch",
+            "mainClass": "LinkedList.Linkedlist2",
+            "projectName": "Java_ef0add14"
+        },
+        {
+            "type": "java",
+            "name": "Launch Linkedlist1",
+            "request": "launch",
+            "mainClass": "LinkedList.Linkedlist1",
+            "projectName": "Java_ef0add14"
+        },
+        {
+            "type": "java",
             "name": "Launch Main",
             "request": "launch",
             "mainClass": "Main",
